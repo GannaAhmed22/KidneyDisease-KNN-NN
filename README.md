@@ -1,1 +1,1 @@
-# NN-K-means
+# KidneyDisease-KNN-NN
